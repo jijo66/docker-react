@@ -8,7 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Buuuda!!! Doker0! hii Stuff inataka kubembelezwa ka mtoto. 
+          Inauma but si ni life. 
+          But Finally! oyaaa!
         </p>
         <a
           className="App-link"
@@ -24,3 +26,5 @@ function App() {
 }
 
 export default App;
+
+// docker run -p 3000:3000 -v /app/node_modules -v ${pwd}:/app CONTAINER_ID
