@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Buuuda!!! Doker0! hii Stuff inataka kubembelezwa ka mtoto. 
-          Inauma but si ni life. 
+          Buuuda!!! Dokero! hii Stuff inataka kubembelezwa ka mtoto. 
+          Inauma but si ni life. Alafu sasa uongeze sijui travis sijui aws! weh! wagwan!
           But Finally! oyaaa!
         </p>
         <a
